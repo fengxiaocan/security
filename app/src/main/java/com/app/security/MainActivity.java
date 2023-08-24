@@ -1,4 +1,4 @@
-package com.ayaneo.security;
+package com.app.security;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
-import com.ayaneo.security.databinding.ActivityMainBinding;
+import com.app.security.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
